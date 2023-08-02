@@ -1,0 +1,4 @@
+[config]
+source_data_path = C:\\Users\\azharuddin.mohammad\\Documents\\SwiftDatapythonscripts\\mocksource
+target_data_path = C:\\Users\\azharuddin.mohammad\\Documents\\SwiftDatapythonscripts\\mocktarget
+output_data_path = C:\\Users\\azharuddin.mohammad\\Documents\\SwiftDatapythonscripts\\output
